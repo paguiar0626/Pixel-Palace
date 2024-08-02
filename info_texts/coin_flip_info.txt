@@ -1,0 +1,5 @@
+Use the arrow buttons on the screen to select your bet. Bet on whether the coin will land on heads or tails.
+Change your bet by clicking either the Heads or Tails buttons.
+Click the screen to flip the coin. You will win the bet if the
+coin lands on your choice. You will lose the bet if the
+coin lands on the opposite choice.

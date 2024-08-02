@@ -1,0 +1,5 @@
+Use the arrow buttons to select your bet, then press Start to begin. 
+Click on cards to flip them over. Attempt to find a match for each set of cards.
+Each card has a partner. If the two cards you flip over match, they will remain flipped.
+Keep playing until each card has been flipped over, 
+and you will be rewarded with your bet payout. The payout is determined by the initial bet and how many turns have elapsed.

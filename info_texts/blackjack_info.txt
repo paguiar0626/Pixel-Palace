@@ -1,0 +1,10 @@
+Use the bet and bet multiplier to select how many credits to gamble on the game.
+Select Start to begin. You may then choose to select either Stand, Hit, or Double. 
+Hit will add another card to your hand. Double will add 2 cards to your hand and double your bet. Stand will hold your current cards.
+
+The goal is to get the numbers on each of your cards to add up to as close to 21 as possible without going over. 
+
+You will take your turn and then the computer dealer will play their turn.
+The game will continue until either player reaches 21 or busts (goes over 21).
+If you win the game, you will win the bet. If not, you lose the bet.
+Press the Replay button to play again with the same bet.
