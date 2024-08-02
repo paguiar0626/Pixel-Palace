@@ -1,0 +1,11 @@
+Welcome to Pixel Palace!
+Here you can play a variety of card and coin based games.
+
+You will begin with a balance of 1000 coins that you may use
+to bet inside each game. Each time you lose a bet, you will lose the amount you set. 
+Each time you win a bet, you will win double the amount you set. Your overall balance will not reset
+unless you do so manually inside the settings menu. There you 
+may also adjust the music and sound effect levels.
+
+Please make a game selection to begin. There are further
+instructions inside each of the games.
