@@ -1,0 +1,1 @@
+Pixel Palace is a casino style series of games, you can play blackjack, memory, or coinflip and bet on winning or loosing your rounds. In order to play download the .zip and locate the bin file, then open the file named after your operating system, windows, macOS, or linux. Then run the pixel-palace.exe file and enjoy all there is to offer!
